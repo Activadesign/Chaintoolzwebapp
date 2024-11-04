@@ -1,4 +1,4 @@
-# Solana JSON
+# Solana JSON (chaintoolz)
 
 ## A library for storing and retrieving data in JSON format on the Solana blockchain
 
@@ -40,20 +40,8 @@ Check the code in solana-json.rs to make sure this is what you are looking for. 
 const payerAccount = solanaJSON.loadUser([1,185,72,49,215,81,171,50,85,54,122,53,24,248,3,221,42,85,82,43,128,80,215,127,68,99,172,141,116,237,232,85,185,31,141,73,173,222,173,174,4,212,0,104,157,80,63,147,21,81,140,201,113,76,156,161,154,92,70,67,163,52,219,72]);
 ```
 
-# Resources
-https://docs.solana.com/developing/clients/javascript-api
-
-https://docs.solana.com/developing/deployed-programs/examples
-
-https://docs.solana.com/developing/deployed-programs/developing-rust
-
-https://solongwallet.medium.com/solana-development-tutorial-program-101-2b168bffd541
-
-https://jamesbachini.com/
 
 
-# Contribute
-If anyone would like to add code to the project please do so via a pull request.
 
 # To Do
 - Easy way to adjust data size
